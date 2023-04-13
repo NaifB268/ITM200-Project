@@ -1,0 +1,21 @@
+Total Sales from year 2012 to 2021
+2012: 1665063
+2013: 1728140
+2014: 1851645
+2015: 1867498
+2016: 1948375
+2017: 2029668
+2018: 1987373
+2019: 1921449
+2020: 1661560
+2021: 1638340
+
+Sales growth rate for the first 6 months of 2022: -1.715722384139897
+
+Estimated sales for year 2022 from month of July to December
+July 2022: -109563
+August 2022: -104612
+September 2022: -103008
+October 2022: -87980
+November 2022: -82480
+December 2022: -78068
